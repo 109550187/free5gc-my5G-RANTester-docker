@@ -1,4 +1,4 @@
-FROM golang:1.14.4-stretch
+FROM golang:1.21.8-bullseye
 
 WORKDIR /workspace
 
